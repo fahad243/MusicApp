@@ -32,4 +32,9 @@ class PlaylistProvider extends ChangeNotifier {
   int? get currentSongIndex => _currentSongIndex;
 
   // setters
+
+  set currentSongIndex(int? newIndex) {
+    _currentSongIndex = newIndex;
+    notifyListeners();
+  }
 }
