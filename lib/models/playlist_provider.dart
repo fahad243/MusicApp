@@ -4,8 +4,8 @@ import 'package:music_player/models/song.dart';
 class PlaylistProvider extends ChangeNotifier {
   final List<Song> _playlist = [
     Song(
-      songName: "Sample Song 1",
-      artistName: "Some Artist",
+      songName: "So Sick",
+      artistName: "Mayonnaise",
       albumArtImagePath: "assets/images/sample1.jpg",
       audioPath: "audio/Mendelssohn.mp3",
     ),
