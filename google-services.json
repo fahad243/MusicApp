@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038094583644",
+    "project_id": "surdhoni-81337",
+    "storage_bucket": "surdhoni-81337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038094583644:android:eaed91ef4b939f743de399",
+        "android_client_info": {
+          "package_name": "com.example.surdhoni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG43O0ElnpLN9_oI4My9zoeHHF4Tj2_HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
